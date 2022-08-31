@@ -1,0 +1,30 @@
+./a.exe at in.txt
+kuritsa
+dimov
+50
+130
+
+shokolad
+dove
+150
+300
+shokolad
+dove
+100
+300
+moloko
+domik v derevne
+100
+200
+moloko
+domik v derevne
+100
+200
+voda
+shishkin les
+50
+300
+morozhenoe
+bon pari
+50
+120

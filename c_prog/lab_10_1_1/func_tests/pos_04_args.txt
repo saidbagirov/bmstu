@@ -1,0 +1,1 @@
+-i func_tests/pos_04_in.txt -o func_tests/pos_04_out.txt -s r

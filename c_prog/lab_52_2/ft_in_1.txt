@@ -1,0 +1,26 @@
+./a.exe ft in.txt da
+
+moloko
+domik v derevne
+100
+200
+shokolad
+dove
+150
+300
+morozhenoe
+bon pari
+50
+120
+voda
+shishkin les
+50
+300
+moloko
+domik v derevne
+100
+200
+shokolad
+dove
+150
+300
